@@ -1,2 +1,2 @@
 # chinhui-vagrant-dev
-The dev environment for my own.
+The dev environment for chinhui.
